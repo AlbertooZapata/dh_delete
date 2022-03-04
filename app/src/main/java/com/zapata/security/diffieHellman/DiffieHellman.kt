@@ -9,7 +9,6 @@ import javax.crypto.KeyAgreement
 
 class DiffieHellman {
 
-
     companion object {
 
         private val TAG = this::class.java.canonicalName
